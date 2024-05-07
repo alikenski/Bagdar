@@ -1,2 +1,2 @@
 # Bagdar
-Swift coordinator module
+Super lightweight Swift coordinator module
